@@ -6,14 +6,14 @@ The custom CLI, the user can simply enter `rs` instead of typing out the full `p
 
 >`sa app_naame`
 
-## Installetion and Usage
+### Installetion and Usage
 * Create a New python file in the root directory of your django project.
 * Copy and paste this code inside the file and save it.
 * Open terminal and run `python file_name.py` then it will display ` django_cli->` now our django CLI is running.
 * You can also use `help` command to see supported command.
 * You can enter any of the supported commands followed by any necessary arguments `rs 8080`
 
-## License
+### License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
 
 ## Acknowledgments
